@@ -1,0 +1,15 @@
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\3 - Exemplo\3 - Exemplo\bin\Debug\net6.0\3 - Exemplo.exe
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\3 - Exemplo\3 - Exemplo\bin\Debug\net6.0\3 - Exemplo.deps.json
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\3 - Exemplo\3 - Exemplo\bin\Debug\net6.0\3 - Exemplo.runtimeconfig.json
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\3 - Exemplo\3 - Exemplo\bin\Debug\net6.0\3 - Exemplo.dll
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\3 - Exemplo\3 - Exemplo\bin\Debug\net6.0\3 - Exemplo.pdb
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\3 - Exemplo\3 - Exemplo\obj\Debug\net6.0\3 - Exemplo.csproj.AssemblyReference.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\3 - Exemplo\3 - Exemplo\obj\Debug\net6.0\3 - Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\3 - Exemplo\3 - Exemplo\obj\Debug\net6.0\3 - Exemplo.AssemblyInfoInputs.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\3 - Exemplo\3 - Exemplo\obj\Debug\net6.0\3 - Exemplo.AssemblyInfo.cs
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\3 - Exemplo\3 - Exemplo\obj\Debug\net6.0\3 - Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\3 - Exemplo\3 - Exemplo\obj\Debug\net6.0\3 - Exemplo.dll
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\3 - Exemplo\3 - Exemplo\obj\Debug\net6.0\refint\3 - Exemplo.dll
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\3 - Exemplo\3 - Exemplo\obj\Debug\net6.0\3 - Exemplo.pdb
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\3 - Exemplo\3 - Exemplo\obj\Debug\net6.0\3 - Exemplo.genruntimeconfig.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\3 Bimestre\3 - Exemplo\3 - Exemplo\obj\Debug\net6.0\ref\3 - Exemplo.dll
