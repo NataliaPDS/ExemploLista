@@ -51,7 +51,8 @@ while (true)
     
 
 }
-
+Console.Clear();//limpar a tela
+//alunos.Sort();//ordernar em ordem alfabetica ou por numero
 foreach (Aluno a in alunos)
 {
     Console.WriteLine("O nome é " + a.Nome + "CPF: " + a.Cpf);
