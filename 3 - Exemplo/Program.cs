@@ -18,14 +18,17 @@ List<Aluno> alunos = new List<Aluno>();
 
 while (true)
 {
+    Aluno aluno = new Aluno();
     Console.WriteLine("Digite o número da sua matrícula: ");
-    int matricula = Convert.ToInt32(Console.ReadLine());
+    aluno.Matricula = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine("Digite seu nome: ");
-    string nome = Console.ReadLine();   
+    aluno.Nome = Console.ReadLine();
     Console.WriteLine("Digite seu cpf: ");
-    string cpf = Console.ReadLine();
-   Console.WriteLine("Digite sua data de nascimento: ");
+    aluno.Cpf = Console.ReadLine();
+    Console.WriteLine("Digite sua data de nascimento: ");
     DateOnly dataNasc = DateOnly.Parse(Console.ReadLine());
+
+    alunos.Add(aluno);
 
     Console.WriteLine("Escolha uma opção: ");
     Console.WriteLine("1 - Continuar");
@@ -33,24 +36,25 @@ while (true)
     Console.WriteLine("Digite o número da opção escolhida: ");
     int opcaoEscolhida = Convert.ToInt32(Console.ReadLine());
 
-    if(opcaoEscolhida == 1)
+    if (opcaoEscolhida == 1)
     {
-        while (true)
-        {
+       
+           
 
-        }
     }
     else if (opcaoEscolhida == 2)
     {
         break;
-    
+
     }
- 
+    
+    
 
 }
+
 foreach (Aluno a in alunos)
 {
-    Console.WriteLine("O nome é " + a.Nome + " " + a.Cpf);
+    Console.WriteLine("O nome é " + a.Nome + "CPF: " + a.Cpf);
 }
 
 
